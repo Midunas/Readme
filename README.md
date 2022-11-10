@@ -8,4 +8,4 @@
   •	Next.js,  
   •	React Query 
   
- Here's my [linkedIn](www.linkedin.com/in/midunas)
+ Here's my [linkedIn](www.linkedin.com/in/Midunas)
