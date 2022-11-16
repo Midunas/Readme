@@ -9,4 +9,5 @@
   •	React Query 
   
  Here's my [linkedIn](https://www.linkedin.com/in/Midunas)
- Here's a weekly room reservation website I made using React & Next.Js [Booky]([https://](https://booky-ten.vercel.app/))
+ 
+ Here's a weekly room reservation website I made [Booky](https://booky-ten.vercel.app/)
