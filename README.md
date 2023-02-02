@@ -6,8 +6,8 @@
   •	Tailwind, Chakra UI   
   •	Node JS, MongoDB  
   •	Next.js,  
-  •	React Query 
-  •	Vue js  
+  •	React Query  
+  •	Vue js   
   
   
   
