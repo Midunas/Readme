@@ -48,13 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midunas&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🚀 What I'm Building
-**🛍️ Complete E-commerce Ecosystems**
-- Full-featured online stores with custom Medusa.js dashboards
-- Seamless checkout experiences with Primer checkout integration
-- API integrations (Stripe, PayPal, inventory systems, shipping providers)
-- Performance optimizations across the stack
-
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/Midunas">
