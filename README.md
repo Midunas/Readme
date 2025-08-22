@@ -56,6 +56,8 @@
 - Performance optimizations across the stack
 
 ## 🌐 Let's Connect
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Midunas)
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/Midunas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
