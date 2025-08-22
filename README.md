@@ -1,4 +1,5 @@
 # 👋 Hey, I'm Mykolas
+
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Developer+%7C+4%2B+Years+Experience;)](https://git.io/typing-svg)
 </div>
