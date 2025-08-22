@@ -1,6 +1,4 @@
-# 👋 Hey, I'm Mykolas
-
-Here's my [linkedIn](https://www.linkedin.com/in/Midunas)  
+# 👋 Hey, I'm [Your Name]
 
 <div align="center">
 
@@ -11,13 +9,13 @@ Here's my [linkedIn](https://www.linkedin.com/in/Midunas)
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Developer+%7C+2%2B+Years+Experience;Fintech+%E2%86%92+E-commerce+Specialist;React+%7C+Vue+%7C+Next+%7C+Nuxt+Expert;Currently+Building+Medusa.js+Dashboards;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Developer+%7C+4%2B+Years+Experience;Fintech+%E2%86%92+E-commerce+Specialist;React+%7C+Vue+%7C+Next+%7C+Nuxt+Expert;Currently+Building+Medusa.js+Dashboards;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
 ## 💼 Experience
 
-### 🏦 **Fintech Era** (2+ Years)
+### 🏦 **Fintech Era** (4+ Years)
 ```mermaid
 graph LR
     A[Payment Systems] --> B[Trading Platforms]
@@ -31,12 +29,6 @@ graph LR
     style D fill:#d62728
     style E fill:#9467bd
 ```
-
-**Impact Delivered:**
-- 🔐 Built secure payment processing systems handling $XXM+ transactions
-- 📊 Developed real-time trading dashboards with sub-second latency
-- 🏛️ Architected compliance-first applications meeting regulatory standards
-- 🛡️ Implemented fraud detection algorithms reducing false positives by XX%
 
 ### 🛒 **E-commerce Transition** (Current)
 ```javascript
@@ -101,62 +93,13 @@ const currentWork = {
 - Full-featured online stores with custom Medusa.js dashboards
 - Seamless checkout experiences with multiple payment gateways
 - API integrations (Stripe, PayPal, inventory systems, shipping providers)
-- Performance optimization: **80+ PageSpeed on Mobile, 100 on Desktop**
-
-**💡 Key Specializations:**
-```typescript
-const myExpertise = {
-  ecommerce: {
-    platforms: ['Medusa.js', 'Custom builds'],
-    payments: ['Stripe', 'PayPal', 'Custom gateways'],
-    features: ['Multi-currency', 'Inventory management', 'Order tracking']
-  },
-  performance: {
-    optimization: 'Web vitals specialist',
-    scores: 'PageSpeed 80+ mobile, 100 desktop',
-    techniques: ['Code splitting', 'Image optimization', 'Lazy loading']
-  },
-  fintech: {
-    experience: '2+ years in payment systems',
-    security: 'PCI compliance & fraud prevention',
-    apis: 'Banking integrations & financial data processing'
-  }
-};
-```
-
-## 🌟 What Sets Me Apart
-
-```python
-class SeniorDeveloper:
-    def __init__(self):
-        self.experience = "2+ years in high-stakes environments"
-        self.domains = ["Fintech", "E-commerce", "SaaS"]
-        self.approach = "Business-first, user-centric development"
-        
-    def solve_problems(self, challenge):
-        return {
-            "analysis": self.deep_dive_requirements(challenge),
-            "architecture": self.design_scalable_solution(challenge),
-            "implementation": self.build_with_best_practices(challenge),
-            "optimization": self.performance_tune(challenge)
-        }
-    
-    def continuous_learning(self):
-        while True:
-            self.explore_new_technologies()
-            self.contribute_to_open_source()
-            self.mentor_junior_developers()
-            yield "Always growing, always improving"
-```
+- Performance optimizations across the stack
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Midunas/)
 
 </div>
 
