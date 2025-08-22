@@ -13,36 +13,6 @@
 
 </div>
 
-## 💼 Experience
-
-### 🏦 **Fintech Era** (4+ Years)
-```mermaid
-graph LR
-    A[Payment Systems] --> B[Trading Platforms]
-    B --> C[Banking APIs]
-    C --> D[Compliance Tools]
-    D --> E[Risk Management]
-    
-    style A fill:#1f77b4
-    style B fill:#ff7f0e
-    style C fill:#2ca02c
-    style D fill:#d62728
-    style E fill:#9467bd
-```
-
-### 🛒 **E-commerce Transition** (Current)
-```javascript
-// Building complete e-commerce ecosystems from ground up
-const currentWork = {
-  platform: 'Medusa.js Dashboard Architecture',
-  scope: ['Full E-shops', 'Custom Checkouts', 'Payment Integrations'],
-  frontend: ['React', 'Next.js', 'TypeScript'],
-  integrations: ['Stripe', 'PayPal', 'Custom APIs', 'Webhooks'],
-  performance: 'PageSpeed 80+ Mobile | 100 Desktop',
-  styling: ['Tailwind CSS', 'Styled Components']
-};
-```
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
