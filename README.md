@@ -1,15 +1,8 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Mykolas
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🚀 Senior Full-Stack Developer | Fintech → E-commerce      ║
-║  💰 Building the future of payments & commerce experiences   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Developer+%7C+4%2B+Years+Experience;Fintech+%E2%86%92+E-commerce+Specialist;React+%7C+Vue+%7C+Next+%7C+Nuxt+Expert;Currently+Building+Medusa.js+Dashboards;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Developer+%7C+4%2B+Years+Experience;)](https://git.io/typing-svg)
 
 </div>
 
