@@ -65,29 +65,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Midunas/)
 
 </div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Currently Coding To
-[![Spotify](https://novatorem-kappa-navy.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star my repositories if you find them interesting!**
-
-*Building the future, one commit at a time* 🚀
-
-</div>
